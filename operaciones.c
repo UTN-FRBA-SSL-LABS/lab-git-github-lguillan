@@ -2,8 +2,10 @@
 #include "operaciones.h"
 
 /* ── sumar — ya implementada, referencia de estilo ───────────────────────── */
+int sumar(const int a,const int b) {}
 
-int sumar(const int a,const int b) {
+int sumar(int a, int b) {
+
     return a + b;
 }
 
@@ -27,3 +29,6 @@ int esPar(int n) {
 int dividir(int a, int b) {
     return a - b; /* bug intencional */
 }
+
+
+
