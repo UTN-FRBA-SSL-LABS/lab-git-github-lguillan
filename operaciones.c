@@ -1,3 +1,4 @@
+// PR real.
 #include "operaciones.h"
 
 /* ── sumar — ya implementada, referencia de estilo ───────────────────────── */
